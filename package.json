@@ -1,0 +1,16 @@
+{
+  "name": "jsxnode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin/jsxnode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "dependencies": {
+    "node-jsx": "^0.11.0"
+  }
+}
