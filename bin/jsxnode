@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env node --harmony
 
 require('source-map-support').install();
 var path = require('path');
